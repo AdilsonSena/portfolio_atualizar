@@ -1,4 +1,6 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Olá, seja bem vindo!
+
+## Atualizando o meu portfólio.
 
 https://portfolio-adilson-sena-lima-barreto.vercel.app/
 
